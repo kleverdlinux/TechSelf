@@ -1,0 +1,6 @@
+{
+  "name": "TechSelf - Electronics & Gadget E-Commerce Store",
+  "description": "Launch an electronics and gadget store with product pages, categories, cart, wishlist, and checkout styled with Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
